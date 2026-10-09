@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Allow: /api/og/
+Disallow: /api/
+Disallow: /ops
+Disallow: /paper-source
+
+Sitemap: https://opcode.so/sitemap.xml
